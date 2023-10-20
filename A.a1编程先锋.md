@@ -29,4 +29,5 @@ int main()
     return 0;                      
 }
 
+这两个的代码中（printf()）这个代码在python中是（print()）“简洁一个‘f’字母”当然python不是今天该讲的emm。
 额（就怎么多了再见。“可能有问题，请指出”）
